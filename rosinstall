@@ -1,0 +1,7 @@
+- git: {local-name: hase, uri: 'https://github.com/garyservin/hase', version: master}
+- git: {local-name: hase_desktop, uri: 'https://github.com/garyservin/hase_desktop',
+    version: indigo-devel}
+- git: {local-name: hase_simulator, uri: 'https://github.com/garyservin/hase_simulator',
+    version: indigo-devel}
+- git: {local-name: robot_localization, uri: 'https://github.com/cra-ros-pkg/robot_localization',
+    version: master}
